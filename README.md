@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fayiz</h1>
 <h3 align="center">A passionate software engineer living in Dubai</h3>
 
+- 📫 How to reach me **fayizasad@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
